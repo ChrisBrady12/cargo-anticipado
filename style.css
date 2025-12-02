@@ -16,13 +16,13 @@
 .container h1 {
   color: aliceblue;
   padding: 15px;
-  font-size: 27px;
+  font-size: 21px;
 }
 
 .container h2 {
   color: rgb(255, 255, 255);
   padding: 25px;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');  
@@ -82,4 +82,5 @@
   height: 14vh;
   margin-top: 15px;
   max-width: 100%;
+
 }
